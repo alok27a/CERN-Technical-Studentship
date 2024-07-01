@@ -24,17 +24,20 @@ Begin your motivation letter by introducing yourself and stating the position yo
 
 After the successful submission of an application, everyone receives an automated email from HR stating, "Your application is complete and is under review." You will typically receive this email after the deadline.
 
-Following this, students are selected based on two categories:
+Supervisors associated with various teams at CERN (like the IT, EP, and HSE departments) need to submit project proposals and specify the number of students required. After an initial screening by HR, all candidate profiles are shared with the supervisors, who are then responsible for selecting the students.
+
+Students are selected based on two categories:
 
 1.  An interview is conducted for the majority of applicants. During my time, 4 out of 5 students selected from India received a selection email four months after the application deadline.
 2.  An interview is not conducted for a few applicants. In my experience, only 1 out of 5 students was selected without an interview, receiving a selection email directly. However, it is highly unlikely that you will be selected if you do not receive an interview invitation.
 
 For the interview, the questions are fairly straightforward and mainly involve a discussion about your resume and possibly the project the supervisor wants you to select.
 
-It was also observed that most of the students selected from India for CS-related projects had made significant contributions to GSOC or other open source projects. However, that's not the only criteria for selection; I didn't participate in GSOC and still got selected.
+It was also observed that most of the students selected from India for CS-related projects had made significant contributions to GSOC or other open-source projects. However, that's not the only criteria for selection; I didn't participate in GSOC and still got selected.
+Also, It is not guaranteed that you will receive a project in the same field as your GSoC project. The main goal is to assess your ability to complete the project successfully.
 
 ### Selection Email 
-If you are selected you receive an email of this type 
+If you are selected you will receive an email of this type 
 ``
 Dear ABC,
 We are pleased to inform you that you have been proposed for selection for the technical Studentship
@@ -43,6 +46,12 @@ We are pleased to inform you that you have been proposed for selection for the t
 Congratulations to those who have been selected! Welcome to the place where the World Wide Web was invented. For those who were not selected, there are numerous openings and various programs at CERN. Please take a look at them.
 
 Note:- Keeping this repository simple without the visa procedure and further details after selection. 
+
+## My Experience 
+While filling out the SmartRecruiters application, I simply added the experience details from my resume without making any changes. I was selected for the EP department, where my work primarily involved Full Stack and DevOps. Although most of my previous internships focused on machine learning, I also had some experience in full-stack development. As a result, there was an opening that matched my profile, and I was selected.
+
+Many people ask me, "What do you think made you stand out?" Well, I believe there are several factors, and it's difficult to pinpoint just one. It could be my past experience or my research work. However, as I mentioned, my past experiences were somewhat related to ML. It's crucial to highlight and showcase your abilities rather than just your experience; otherwise, you may find yourself landing the same type of job repeatedly.
+
 
 ## Contact me 
 ### Alok Mathur
