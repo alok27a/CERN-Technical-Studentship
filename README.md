@@ -14,6 +14,12 @@ In order to qualify for a place in the program you will need to meet the followi
 -   A copy of your **most recent academic transcript** giving an overview of your marks.
 -   **A reference letter from your University Professor is  mandatory**.
 
+### Motivation Letter 
+``The most important part of your application is your motivation letter or Statement of Purpose (SOP). It should be unique and reflect your individuality. The tips below are merely suggestions to help you get started, but strive to make these sections as original as possible.``
+
+Begin your motivation letter by introducing yourself and stating the position you are applying for, ensuring to start with a strong opening to grab the reader's attention. Clearly explain your passion for the field, including a personal story or experience that sparked your interest, and show how this aligns with your career goals. Highlight your relevant experiences and achievements, mentioning specific skills with concrete examples to demonstrate why you are a strong candidate. Describe what unique contributions you can bring to the organization or the team at CERN and share your vision for how you plan to utilize this opportunity if given. Demonstrate that you’ve done your research by mentioning specific aspects of the program or organization that appeal to you, and explain why it’s the perfect fit for you. Conclude by summarizing your enthusiasm for the opportunity.
+
+
 ### Selection Procedure After Application 
 
 After the successful submission of an application, everyone receives an automated email from HR stating, "Your application is complete and is under review." You will typically receive this email after the deadline.
